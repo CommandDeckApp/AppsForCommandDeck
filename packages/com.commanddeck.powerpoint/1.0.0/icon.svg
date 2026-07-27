@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <defs>
+    <linearGradient id="ppbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#c2410c"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="88" height="88" rx="22" fill="url(#ppbg)"/>
+  <!-- Screen -->
+  <rect x="20" y="24" width="56" height="38" rx="4" fill="#fff"/>
+  <!-- Stand -->
+  <path d="M44 62h8v8h10a3 3 0 0 1 0 6H34a3 3 0 0 1 0-6h10z" fill="#fff" opacity="0.9"/>
+  <!-- Play caret on the slide -->
+  <path d="M42 34l16 9-16 9z" fill="#c2410c"/>
+</svg>

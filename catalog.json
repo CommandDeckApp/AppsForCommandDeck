@@ -1,0 +1,236 @@
+﻿{
+    "schema":  "cdcatalog/v1",
+    "name":  "Apps for CommandDeck",
+    "updated":  "2026-07-27T01:13:19.4258087Z",
+    "items":  [
+                  {
+                      "id":  "com.commanddeck.discord",
+                      "type":  "app",
+                      "name":  "Discord",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeck",
+                      "description":  "Mute, deafen, push-to-talk and channel switching for the Discord desktop client, with live voice status on every card.",
+                      "category":  "Communication",
+                      "tags":  [
+                                   "discord",
+                                   "voice",
+                                   "chat",
+                                   "streaming",
+                                   "mute",
+                                   "push-to-talk"
+                               ],
+                      "download":  "packages/com.commanddeck.discord/1.0.0/com.commanddeck.discord-1.0.0.cdpkg",
+                      "sha256":  "f2bc9ec007dab5f1821b0e82da8aef5b825e7087b9060d1addbc1bbca9f9f28d",
+                      "sizeBytes":  57472,
+                      "icon":  "packages/com.commanddeck.discord/1.0.0/icon.svg"
+                  },
+                  {
+                      "id":  "com.commanddeck.hello",
+                      "type":  "app",
+                      "name":  "Hello App",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeck",
+                      "description":  "Reference app demonstrating the four rich-UI surfaces.",
+                      "category":  "Examples",
+                      "tags":  [
+                                   "example",
+                                   "sdk"
+                               ],
+                      "download":  "packages/com.commanddeck.hello/1.0.0/com.commanddeck.hello-1.0.0.cdpkg",
+                      "sha256":  "0577eaaec73b9ad97d567a2e3eace902dca1def72521c846a276e76f2353a884",
+                      "sizeBytes":  2259
+                  },
+                  {
+                      "id":  "com.commanddeck.homeassistant",
+                      "type":  "app",
+                      "name":  "Home Assistant",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeck",
+                      "description":  "Control and monitor your Home Assistant entities.",
+                      "category":  "Home",
+                      "tags":  [
+                                   "home",
+                                   "iot",
+                                   "smart-home"
+                               ],
+                      "download":  "packages/com.commanddeck.homeassistant/1.0.0/com.commanddeck.homeassistant-1.0.0.cdpkg",
+                      "sha256":  "34f9c56b3bfdedf97a215907426e98bd3cac269c1799a9a0236956607e9c6e9a",
+                      "sizeBytes":  52274
+                  },
+                  {
+                      "id":  "com.commanddeck.powerpoint",
+                      "type":  "app",
+                      "name":  "PowerPoint",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeck",
+                      "description":  "Run and edit a PowerPoint deck from the deck: a slide dial for navigating a live show, presenter pointer tools, blackout, Slide Sorter, a presentation timer, plus shapes, slides, sections, arrange, format, merge and crop-to-shape.",
+                      "category":  "Productivity",
+                      "tags":  [
+                                   "powerpoint",
+                                   "presentation",
+                                   "slides",
+                                   "office",
+                                   "presenter",
+                                   "clicker",
+                                   "timer"
+                               ],
+                      "download":  "packages/com.commanddeck.powerpoint/1.0.0/com.commanddeck.powerpoint-1.0.0.cdpkg",
+                      "sha256":  "fef3b62f45617c364c685ef05f06ce0529636b17306c68c7ee51ffd689feaf53",
+                      "sizeBytes":  63286,
+                      "icon":  "packages/com.commanddeck.powerpoint/1.0.0/icon.svg"
+                  },
+                  {
+                      "id":  "com.commanddeck.spotify",
+                      "type":  "app",
+                      "name":  "Spotify",
+                      "version":  "2.1.0",
+                      "author":  "CommandDeck",
+                      "description":  "Full Spotify remote: now playing with album art, seek, shuffle and repeat, Liked Songs, queue, search, playlists, and device switching.",
+                      "category":  "Music",
+                      "tags":  [
+                                   "music",
+                                   "media",
+                                   "remote",
+                                   "spotify"
+                               ],
+                      "download":  "packages/com.commanddeck.spotify/2.1.0/com.commanddeck.spotify-2.1.0.cdpkg",
+                      "sha256":  "e73ca0a4940686267b2afcc695ba6de30ff85738a4fdd2a69b20e22a4ea90100",
+                      "sizeBytes":  63797,
+                      "icon":  "packages/com.commanddeck.spotify/2.1.0/icon.svg"
+                  },
+                  {
+                      "id":  "com.commanddeck.streamoverlay",
+                      "type":  "app",
+                      "name":  "Stream Overlay",
+                      "version":  "2.0.0",
+                      "author":  "CommandDeck",
+                      "description":  "Design a broadcast overlay by dragging text and images onto a canvas, then push it live. Stack several layouts at once and use it as an OBS browser source or a transparent window on top of your desktop.",
+                      "category":  "Streaming",
+                      "tags":  [
+                                   "streaming",
+                                   "overlay",
+                                   "obs",
+                                   "broadcast",
+                                   "live",
+                                   "twitch",
+                                   "youtube"
+                               ],
+                      "download":  "packages/com.commanddeck.streamoverlay/2.0.0/com.commanddeck.streamoverlay-2.0.0.cdpkg",
+                      "sha256":  "ca699b98613b7af61fef1b32c87198ca75c5fea3b40b18ea3344c24dc1235420",
+                      "sizeBytes":  29682,
+                      "icon":  "packages/com.commanddeck.streamoverlay/2.0.0/icon.svg"
+                  },
+                  {
+                      "id":  "com.commanddeck.systemcontrol",
+                      "type":  "app",
+                      "name":  "System Control",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeck",
+                      "description":  "Your PC\u0027s own controls on the deck â€” per-monitor brightness, resolution and projection mode, power plans and battery, sleep/lock/shutdown, Windows services, light/dark theme, running processes and the recycle bin.",
+                      "category":  "System",
+                      "tags":  [
+                                   "system",
+                                   "windows",
+                                   "brightness",
+                                   "display",
+                                   "monitor",
+                                   "resolution",
+                                   "power",
+                                   "battery",
+                                   "sleep",
+                                   "shutdown",
+                                   "restart",
+                                   "services",
+                                   "processes",
+                                   "theme",
+                                   "dark mode",
+                                   "recycle bin"
+                               ],
+                      "download":  "packages/com.commanddeck.systemcontrol/1.0.0/com.commanddeck.systemcontrol-1.0.0.cdpkg",
+                      "sha256":  "b4a3f77a7069de464c84a6b7092570079e2ef3303fdc986132c4c408c174316a",
+                      "sizeBytes":  100743,
+                      "icon":  "packages/com.commanddeck.systemcontrol/1.0.0/icon.svg"
+                  },
+                  {
+                      "id":  "com.commanddeck.volumecontrol",
+                      "type":  "app",
+                      "name":  "Volume Control",
+                      "version":  "2.2.0",
+                      "author":  "CommandDeck",
+                      "description":  "Control volume and mute for any speaker or microphone from the deck — pick the output and input device, a live dial, quick presets, and a compact tile.",
+                      "category":  "Media",
+                      "tags":  [
+                                   "volume",
+                                   "audio",
+                                   "sound",
+                                   "mute",
+                                   "microphone",
+                                   "input",
+                                   "output",
+                                   "control"
+                               ],
+                      "download":  "packages/com.commanddeck.volumecontrol/2.2.0/com.commanddeck.volumecontrol-2.2.0.cdpkg",
+                      "sha256":  "a911b0c3dc64c2b6727380d4631072db94e9b8cc14430afc9b5fff8ea56f6595",
+                      "sizeBytes":  15408,
+                      "icon":  "packages/com.commanddeck.volumecontrol/2.2.0/icon.svg"
+                  },
+                  {
+                      "id":  "com.commanddeck.weather",
+                      "type":  "app",
+                      "name":  "Weather",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeck",
+                      "description":  "Current conditions, hourly and 7-day forecast on your deck. No API key required â€” powered by Open-Meteo.",
+                      "category":  "Information",
+                      "tags":  [
+                                   "weather",
+                                   "forecast",
+                                   "temperature",
+                                   "open-meteo"
+                               ],
+                      "download":  "packages/com.commanddeck.weather/1.0.0/com.commanddeck.weather-1.0.0.cdpkg",
+                      "sha256":  "d48287e777d18038127a07ba44730bcb129d09532b9dff2afbd8693df5ed87b9",
+                      "sizeBytes":  26280,
+                      "icon":  "packages/com.commanddeck.weather/1.0.0/icon.svg"
+                  },
+                  {
+                      "id":  "com.commanddeck.worldclock",
+                      "type":  "app",
+                      "name":  "World Clock",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeck",
+                      "description":  "The time anywhere, on as many cards as you like. Add one per city â€” Tokyo, Berlin, New York â€” and each card keeps its own. No network, no API key.",
+                      "category":  "Information",
+                      "tags":  [
+                                   "clock",
+                                   "time",
+                                   "timezone",
+                                   "world"
+                               ],
+                      "download":  "packages/com.commanddeck.worldclock/1.0.0/com.commanddeck.worldclock-1.0.0.cdpkg",
+                      "sha256":  "90b15fc925f2153761e16ec8fc795c5b1d1be09ebf9089709e3988bec367db10",
+                      "sizeBytes":  7206,
+                      "icon":  "packages/com.commanddeck.worldclock/1.0.0/icon.svg"
+                  },
+                  {
+                      "id":  "com.commanddeck.youtubelive",
+                      "type":  "app",
+                      "name":  "YouTube Live",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeck",
+                      "description":  "Deck controls for a YouTube live stream: concurrent viewers, preset chat messages, mid-roll ads, the live dashboard, and one-press start/stop.",
+                      "category":  "Streaming",
+                      "tags":  [
+                                   "youtube",
+                                   "live",
+                                   "stream",
+                                   "chat",
+                                   "obs"
+                               ],
+                      "download":  "packages/com.commanddeck.youtubelive/1.0.0/com.commanddeck.youtubelive-1.0.0.cdpkg",
+                      "sha256":  "5cf728a43eb83d41a6c898100d23879c953fbc898f4924dc2686e9e344049c0f",
+                      "sizeBytes":  6819,
+                      "icon":  "packages/com.commanddeck.youtubelive/1.0.0/icon.svg"
+                  }
+              ]
+}

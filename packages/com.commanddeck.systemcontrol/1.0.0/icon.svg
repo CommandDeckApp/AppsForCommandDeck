@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <defs>
+    <linearGradient id="scbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="88" height="88" rx="22" fill="url(#scbg)"/>
+  <!-- monitor -->
+  <rect x="22" y="26" width="52" height="34" rx="4" fill="none" stroke="#fff" stroke-width="5"/>
+  <path d="M38 70h20M48 60v10" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <!-- slider inside the screen: the app is about adjusting the machine -->
+  <g stroke="#fff" stroke-width="4" stroke-linecap="round" opacity="0.9">
+    <path d="M31 38h34M31 48h34"/>
+  </g>
+  <circle cx="43" cy="38" r="5" fill="#fff"/>
+  <circle cx="56" cy="48" r="5" fill="#fff"/>
+</svg>
