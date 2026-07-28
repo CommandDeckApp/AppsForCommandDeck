@@ -1,7 +1,7 @@
 {
     "schema":  "cdcatalog/v1",
     "name":  "Apps for CommandDeck",
-    "updated":  "2026-07-28T04:43:11.6548942Z",
+    "updated":  "2026-07-28T04:58:07.3986840Z",
     "items":  [
                   {
                       "id":  "com.commanddeck.discord",
@@ -20,8 +20,8 @@
                                    "push-to-talk"
                                ],
                       "download":  "packages/com.commanddeck.discord/1.0.0/com.commanddeck.discord-1.0.0.cdpkg",
-                      "sha256":  "f92b957e47629620d84c7a15e496b3c699796b7a576cae7a79af321d1bca4d54",
-                      "sizeBytes":  91277,
+                      "sha256":  "8bf28836ba06e3f6ed4362c524c793a17cc96c4ee3a8fa2181418afb6e4f8384",
+                      "sizeBytes":  98917,
                       "icon":  "packages/com.commanddeck.discord/1.0.0/icon.svg"
                   },
                   {
@@ -54,7 +54,7 @@
                                    "smart-home"
                                ],
                       "download":  "packages/com.commanddeck.homeassistant/1.0.0/com.commanddeck.homeassistant-1.0.0.cdpkg",
-                      "sha256":  "13c0c05702208c656288693ddbe44f18f11a937968356dcaa9af3b98dc650c14",
+                      "sha256":  "ea43d24026b5249d59e7138f302ea8a1278ae5cfe40d73b3f32a50479a684652",
                       "sizeBytes":  57252,
                       "icon":  "packages/com.commanddeck.homeassistant/1.0.0/icon.svg"
                   },
@@ -76,8 +76,8 @@
                                    "timer"
                                ],
                       "download":  "packages/com.commanddeck.powerpoint/1.0.0/com.commanddeck.powerpoint-1.0.0.cdpkg",
-                      "sha256":  "23c77ee61bf48d1b6a0ee329a4290919280b87347a24514cccf7530868439fcb",
-                      "sizeBytes":  60978,
+                      "sha256":  "b0497c55864de0dda24dd29387a97d9182521f39cec5451fd572db3be1a483b4",
+                      "sizeBytes":  63267,
                       "icon":  "packages/com.commanddeck.powerpoint/1.0.0/icon.svg"
                   },
                   {
@@ -95,8 +95,8 @@
                                    "spotify"
                                ],
                       "download":  "packages/com.commanddeck.spotify/2.1.0/com.commanddeck.spotify-2.1.0.cdpkg",
-                      "sha256":  "ccd7ee6cbdefd3ccb041a4dc475e4cbd1228a0395e1188e164d4086c924c1fe3",
-                      "sizeBytes":  59739,
+                      "sha256":  "7fb46e337e08f9d9d42cbb6bb5ab50dda04f99d4d2863cc8ddd4f26b3f32b878",
+                      "sizeBytes":  63831,
                       "icon":  "packages/com.commanddeck.spotify/2.1.0/icon.svg"
                   },
                   {
@@ -118,8 +118,8 @@
                                    "scenes"
                                ],
                       "download":  "packages/com.commanddeck.streamoverlay/2.1.0/com.commanddeck.streamoverlay-2.1.0.cdpkg",
-                      "sha256":  "51b63ae5b9ee2cc4704e90a2f008d07187c983dc6cc4c6cc5a89d57cc8c45bcb",
-                      "sizeBytes":  51658,
+                      "sha256":  "9072c2ccf0a78851646253bb3da2cbb94982a7b9132c459e8ef8ea10fcd60ec3",
+                      "sizeBytes":  53676,
                       "icon":  "packages/com.commanddeck.streamoverlay/2.1.0/icon.svg"
                   },
                   {
@@ -149,8 +149,8 @@
                                    "recycle bin"
                                ],
                       "download":  "packages/com.commanddeck.systemcontrol/1.0.0/com.commanddeck.systemcontrol-1.0.0.cdpkg",
-                      "sha256":  "ad088faa338a98c31a27eb0f4bf065f2a04317ac47563c7c920b10fa1c414f60",
-                      "sizeBytes":  95813,
+                      "sha256":  "a0989f8ca0969e04ade7a61b9d57b4e252e659429a3b200878f0c42b95bc23b8",
+                      "sizeBytes":  100721,
                       "icon":  "packages/com.commanddeck.systemcontrol/1.0.0/icon.svg"
                   },
                   {
@@ -172,8 +172,8 @@
                                    "control"
                                ],
                       "download":  "packages/com.commanddeck.volumecontrol/2.2.0/com.commanddeck.volumecontrol-2.2.0.cdpkg",
-                      "sha256":  "71639d74947f31a8190c9755f2abb85dbb7905ffc6b264cff1c1961b2250e751",
-                      "sizeBytes":  15169,
+                      "sha256":  "7606dd3e9ecf4d397f0dc6371c130255d5675885c7551db0c3f9e3ef56dbd234",
+                      "sizeBytes":  15393,
                       "icon":  "packages/com.commanddeck.volumecontrol/2.2.0/icon.svg"
                   },
                   {
@@ -191,8 +191,8 @@
                                    "open-meteo"
                                ],
                       "download":  "packages/com.commanddeck.weather/1.0.0/com.commanddeck.weather-1.0.0.cdpkg",
-                      "sha256":  "066fcd31095082ad7509ce6b88627ec3e6630269e095800099cfe667efa84042",
-                      "sizeBytes":  24664,
+                      "sha256":  "ce91eb210d0f59d4e782dff7cc60a10bb5459a067825639b94de2ced03336aa3",
+                      "sizeBytes":  26258,
                       "icon":  "packages/com.commanddeck.weather/1.0.0/icon.svg"
                   },
                   {
@@ -210,7 +210,7 @@
                                    "world"
                                ],
                       "download":  "packages/com.commanddeck.worldclock/1.0.0/com.commanddeck.worldclock-1.0.0.cdpkg",
-                      "sha256":  "a8984f0fe03a7d5ae86936484c9b66d96d0c55afe6ac67739f68aff14fa2caa4",
+                      "sha256":  "75e2b59cd615c04700b017c997df6d5eda9cc520b6f73724941bf1968e4d97e5",
                       "sizeBytes":  7196,
                       "icon":  "packages/com.commanddeck.worldclock/1.0.0/icon.svg"
                   },
@@ -250,7 +250,7 @@
                                    "hero"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.apex/1.0.0/com.commanddeckapp.profile.apex-1.0.0.cdpkg",
-                      "sha256":  "5582bbe34a4a16a3f069a60b0f105a7c994735852b5fdf2fba5fd298530f072f",
+                      "sha256":  "403d915d113a63f76f59d368d64221e1d83c0a23e3f076e1a1e4cd6691e581aa",
                       "sizeBytes":  2116,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.apex/1.0.0/Apex Legends Deck.profile"
@@ -271,10 +271,31 @@
                                    "larian"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.bg3/1.0.0/com.commanddeckapp.profile.bg3-1.0.0.cdpkg",
-                      "sha256":  "150a7a496a8e00ffa611845775f9e979f484035e8840da819288e506e5cbdeb9",
+                      "sha256":  "17a9169dfe1c01822adfca77509b4450d66959b132cbd0b4d73869c33a243a7f",
                       "sizeBytes":  2123,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.bg3/1.0.0/Baldur\u0027s Gate 3 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.battlefield2042",
+                      "type":  "profile",
+                      "name":  "Battlefield 2042 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Squad orders, gadgets, vehicle seats and spotting. Battlefield 2042 / V defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Battlefield 2042",
+                                   "fps",
+                                   "shooter",
+                                   "squad",
+                                   "vehicles"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.battlefield2042/1.0.0/com.commanddeckapp.profile.battlefield2042-1.0.0.cdpkg",
+                      "sha256":  "fc61dde170dd9974f44c7692d3db0caabc2c8f27a8cd8d3a5a6f27568af7a1b8",
+                      "sizeBytes":  1840,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.battlefield2042/1.0.0/Battlefield 2042 Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.cs2",
@@ -292,7 +313,7 @@
                                    "valve"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.cs2/1.0.0/com.commanddeckapp.profile.cs2-1.0.0.cdpkg",
-                      "sha256":  "63f0d1ad336eda20f8e1b91bdbbaf809d8045edf00bb0a2611b25fc52c321c65",
+                      "sha256":  "d74251c31e99ce63aea2b0efe93f61513c8a166725f7bdf68971f1a014721593",
                       "sizeBytes":  2155,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.cs2/1.0.0/Counter-Strike 2 Deck.profile"
@@ -313,10 +334,94 @@
                                    "cdpr"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.cyberpunk2077/1.0.0/com.commanddeckapp.profile.cyberpunk2077-1.0.0.cdpkg",
-                      "sha256":  "4b150a57ae8e8f6a1d1ebbb2e48e144e63f23039efe46062b822709f8bcbee99",
+                      "sha256":  "57fe1acaecf8b110deefd08be4d4dfcfd1eda08a2cb2e6cc9d360247f82548ba",
                       "sizeBytes":  2099,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.cyberpunk2077/1.0.0/Cyberpunk 2077 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.diablo4",
+                      "type":  "profile",
+                      "name":  "Diablo IV Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Skill slots, potion, mount, town portal and the panels. Diablo IV defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Diablo IV",
+                                   "arpg",
+                                   "loot",
+                                   "blizzard",
+                                   "action"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.diablo4/1.0.0/com.commanddeckapp.profile.diablo4-1.0.0.cdpkg",
+                      "sha256":  "2b6c4a276994506378e1de0ba7f4e962cf6366f57fa5176d6a1e73616ee79c98",
+                      "sizeBytes":  1698,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.diablo4/1.0.0/Diablo IV Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.dota2",
+                      "type":  "profile",
+                      "name":  "Dota 2 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Six ability slots, six item slots and chat on one deck. Dota 2 defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Dota 2",
+                                   "moba",
+                                   "valve",
+                                   "multiplayer",
+                                   "esports"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.dota2/1.0.0/com.commanddeckapp.profile.dota2-1.0.0.cdpkg",
+                      "sha256":  "a7731c8478ddf9d28f13e04b03e4ead0ef9b7178d3bdec678d3390f2874875f3",
+                      "sizeBytes":  1814,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.dota2/1.0.0/Dota 2 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.eldenring",
+                      "type":  "profile",
+                      "name":  "Elden Ring Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Item and spell swapping, roll, lock-on and menus. Elden Ring keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Elden Ring",
+                                   "souls",
+                                   "rpg",
+                                   "action",
+                                   "fromsoftware"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.eldenring/1.0.0/com.commanddeckapp.profile.eldenring-1.0.0.cdpkg",
+                      "sha256":  "c1b7683134234382c2c8a2f58a6192a13e85760bacba6368a176ec7541fd5cf7",
+                      "sizeBytes":  1784,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.eldenring/1.0.0/Elden Ring Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.elitedangerous",
+                      "type":  "profile",
+                      "name":  "Elite Dangerous Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Gear, scoop, hardpoints, power pips and the four UI panels. Elite Dangerous defaults.",
+                      "category":  "Flight Sim",
+                      "tags":  [
+                                   "game:Elite Dangerous",
+                                   "space",
+                                   "sim",
+                                   "flight",
+                                   "trading"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.elitedangerous/1.0.0/com.commanddeckapp.profile.elitedangerous-1.0.0.cdpkg",
+                      "sha256":  "fcacfec7050cae5bf38f61fe25356541b8cd6b92dca2b66d9c563fbdaaeb1d26",
+                      "sizeBytes":  2067,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.elitedangerous/1.0.0/Elite Dangerous Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.tarkov",
@@ -334,10 +439,52 @@
                                    "milsim"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.tarkov/1.0.0/com.commanddeckapp.profile.tarkov-1.0.0.cdpkg",
-                      "sha256":  "a469e0574aa78680ec4b9798e38d2fb503b6bfb5f60cc118e46458371638738d",
+                      "sha256":  "ce55e7bc199777f4046d4669fa433918956e3d29d107d2ee390e3b67a3eae785",
                       "sizeBytes":  2129,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.tarkov/1.0.0/Escape from Tarkov Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.ets2",
+                      "type":  "profile",
+                      "name":  "Euro Truck Simulator 2 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Lights, indicators, wipers, cruise control and trailer attach. ETS2 keyboard defaults.",
+                      "category":  "Racing",
+                      "tags":  [
+                                   "game:Euro Truck Simulator 2",
+                                   "trucking",
+                                   "sim",
+                                   "driving",
+                                   "scs"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.ets2/1.0.0/com.commanddeckapp.profile.ets2-1.0.0.cdpkg",
+                      "sha256":  "bce80d18d717eb395bcda1b677757450185ddabab6e3c7509eec97ac1ef4c3e2",
+                      "sizeBytes":  1857,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.ets2/1.0.0/Euro Truck Simulator 2 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.factorio",
+                      "type":  "profile",
+                      "name":  "Factorio Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Rotate, pipette, technology and production screens for a factory that must grow. Factorio defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Factorio",
+                                   "automation",
+                                   "factory",
+                                   "simulation",
+                                   "strategy"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.factorio/1.0.0/com.commanddeckapp.profile.factorio-1.0.0.cdpkg",
+                      "sha256":  "7ec205fd7c7c77650c3c6d109c1280c71933a658da8ed4a95a8811cb4a5e6e00",
+                      "sizeBytes":  1802,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.factorio/1.0.0/Factorio Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.fortnite",
@@ -355,10 +502,72 @@
                                    "epic"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.fortnite/1.0.0/com.commanddeckapp.profile.fortnite-1.0.0.cdpkg",
-                      "sha256":  "9c51d55c4565f63876592a369710773628ae6f06ca241d9ff9018404e2731bfb",
+                      "sha256":  "653d29305ce6574f4a1efa626b2ba47cc6951463841d75698c4b88883175312d",
                       "sizeBytes":  2067,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.fortnite/1.0.0/Fortnite Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.genshinimpact",
+                      "type":  "profile",
+                      "name":  "Genshin Impact Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Party switching, elemental skill, burst and the menus. Genshin Impact PC defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Genshin Impact",
+                                   "gacha",
+                                   "open world",
+                                   "action rpg",
+                                   "hoyoverse"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.genshinimpact/1.0.0/com.commanddeckapp.profile.genshinimpact-1.0.0.cdpkg",
+                      "sha256":  "7b89de78cedd30d79bb372f19c5f03d7e3ea9b321ad6e344909d9c1542b90dc1",
+                      "sizeBytes":  1824,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.genshinimpact/1.0.0/Genshin Impact Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.gtav",
+                      "type":  "profile",
+                      "name":  "GTA V Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Weapon wheel, radio, special ability and phone on one deck. GTA V PC defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Grand Theft Auto V",
+                                   "open world",
+                                   "action",
+                                   "rockstar",
+                                   "driving"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.gtav/1.0.0/com.commanddeckapp.profile.gtav-1.0.0.cdpkg",
+                      "sha256":  "9f230fdf0aa97a60a624f815f6a798fe13b8bec6c73cf01090d24f50b4a6d174",
+                      "sizeBytes":  1759,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.gtav/1.0.0/GTA V Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.haloinfinite",
+                      "type":  "profile",
+                      "name":  "Halo Infinite Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Equipment, grenades, weapon swaps and scoreboard for Halo Infinite on keyboard and mouse.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Halo Infinite",
+                                   "fps",
+                                   "shooter",
+                                   "multiplayer"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.haloinfinite/1.0.0/com.commanddeckapp.profile.haloinfinite-1.0.0.cdpkg",
+                      "sha256":  "f0a09244ef94025d2262331208cbc1bbd3fde8fc1ffda22dbae7e23fbdc600d9",
+                      "sizeBytes":  1786,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.haloinfinite/1.0.0/Halo Infinite Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.helldivers2",
@@ -376,10 +585,52 @@
                                    "arrowhead"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.helldivers2/1.0.0/com.commanddeckapp.profile.helldivers2-1.0.0.cdpkg",
-                      "sha256":  "b1ddb8003ef3ed651b96e589cab548ed005a3e946eecb18988bf72fd2ba88d20",
+                      "sha256":  "fc40dee17f2100f21097719ba8b6e5c4c93631d48bb9b56eb4af9a1a7aff6b9d",
                       "sizeBytes":  2049,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.helldivers2/1.0.0/HELLDIVERS 2 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.ksp",
+                      "type":  "profile",
+                      "name":  "Kerbal Space Program Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Staging, SAS, RCS, action groups and time warp on one deck. KSP defaults.",
+                      "category":  "Flight Sim",
+                      "tags":  [
+                                   "game:Kerbal Space Program",
+                                   "space",
+                                   "sim",
+                                   "rockets",
+                                   "sandbox"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.ksp/1.0.0/com.commanddeckapp.profile.ksp-1.0.0.cdpkg",
+                      "sha256":  "d6abcd36e09af5005d091151b0adeb11f24486b10b84240806e0313eb7ccf9c6",
+                      "sizeBytes":  2009,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.ksp/1.0.0/Kerbal Space Program Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.leagueoflegends",
+                      "type":  "profile",
+                      "name":  "League of Legends Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Abilities, summoner spells, item slots and level-up on one deck. League defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:League of Legends",
+                                   "moba",
+                                   "riot",
+                                   "multiplayer",
+                                   "esports"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.leagueoflegends/1.0.0/com.commanddeckapp.profile.leagueoflegends-1.0.0.cdpkg",
+                      "sha256":  "dca006440210942598412f4ddcc2c6686357f9d669f934cac78a8f7602c1700f",
+                      "sizeBytes":  2108,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.leagueoflegends/1.0.0/League of Legends Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.minecraft",
@@ -397,7 +648,7 @@
                                    "mojang"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.minecraft/1.0.0/com.commanddeckapp.profile.minecraft-1.0.0.cdpkg",
-                      "sha256":  "787bddf25f84846cbef1a9524daec149efd393f902e9e4bc2a1cefce0b850391",
+                      "sha256":  "316971499bf184e942e35090b2ab37277227bbb45ff2d7007af0f30c999bc441",
                       "sizeBytes":  2165,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.minecraft/1.0.0/Minecraft (Java) Deck.profile"
@@ -423,6 +674,68 @@
                       "profileFile":  "packages/com.commanddeckapp.msfs.airliner/1.0.0/MSFS - Airliner Deck.profile"
                   },
                   {
+                      "id":  "com.commanddeckapp.profile.nomanssky",
+                      "type":  "profile",
+                      "name":  "No Man\u0027s Sky Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Scanner, visor, quick menu and inventory for planetside exploring. No Man\u0027s Sky defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:No Man\u0027s Sky",
+                                   "exploration",
+                                   "survival",
+                                   "space",
+                                   "sandbox"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.nomanssky/1.0.0/com.commanddeckapp.profile.nomanssky-1.0.0.cdpkg",
+                      "sha256":  "6095d61fb373cbe165124db0b1dab5302d2472056924468abe1cac781af96075",
+                      "sizeBytes":  1676,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.nomanssky/1.0.0/No Man\u0027s Sky Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.obsstreaming",
+                      "type":  "profile",
+                      "name":  "OBS Streaming Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Scene switching, mute, replay buffer and marker keys for streaming while you play. Bind these in OBS as global hotkeys.",
+                      "category":  "Streaming",
+                      "tags":  [
+                                   "game:OBS Studio",
+                                   "streaming",
+                                   "obs",
+                                   "capture"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.obsstreaming/1.0.0/com.commanddeckapp.profile.obsstreaming-1.0.0.cdpkg",
+                      "sha256":  "c97719fececb5234664336409a2eba85845104dfa088ab861f8a1234d5169dbd",
+                      "sizeBytes":  1708,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.obsstreaming/1.0.0/OBS Streaming Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.overwatch2",
+                      "type":  "profile",
+                      "name":  "Overwatch 2 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Hero abilities, ultimate, comms wheel and scoreboard. Overwatch 2 defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Overwatch 2",
+                                   "fps",
+                                   "hero shooter",
+                                   "blizzard",
+                                   "multiplayer"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.overwatch2/1.0.0/com.commanddeckapp.profile.overwatch2-1.0.0.cdpkg",
+                      "sha256":  "250debc2d2f94f4350cc743f41334a222772094b35aaa404599ef91e12ec81bd",
+                      "sizeBytes":  1747,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.overwatch2/1.0.0/Overwatch 2 Deck.profile"
+                  },
+                  {
                       "id":  "com.commanddeckapp.palworld",
                       "type":  "profile",
                       "name":  "Palworld Deck",
@@ -442,6 +755,48 @@
                       "profileFile":  "packages/com.commanddeckapp.palworld/1.0.0/Palworld Deck.profile"
                   },
                   {
+                      "id":  "com.commanddeckapp.profile.pathofexile",
+                      "type":  "profile",
+                      "name":  "Path of Exile Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Skill bar, five flasks and the panels you live in. Path of Exile defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Path of Exile",
+                                   "arpg",
+                                   "loot",
+                                   "isometric",
+                                   "ggg"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.pathofexile/1.0.0/com.commanddeckapp.profile.pathofexile-1.0.0.cdpkg",
+                      "sha256":  "83b8d761ed3df7fdd54f6ad22f81af2a1130c80494ae4b368f0527de23cff0b2",
+                      "sizeBytes":  1801,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.pathofexile/1.0.0/Path of Exile Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.pubg",
+                      "type":  "profile",
+                      "name":  "PUBG: Battlegrounds Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Weapon slots, leaning, stance and heals bound to one deck. PUBG defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:PUBG: Battlegrounds",
+                                   "battle royale",
+                                   "fps",
+                                   "shooter",
+                                   "survival"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.pubg/1.0.0/com.commanddeckapp.profile.pubg-1.0.0.cdpkg",
+                      "sha256":  "c7978cb3a37d221b5e7dfdb6fa2459917653725139f83cad0007c30a22dd6b72",
+                      "sizeBytes":  2045,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.pubg/1.0.0/PUBG- Battlegrounds Deck.profile"
+                  },
+                  {
                       "id":  "com.commanddeckapp.profile.rocketleague",
                       "type":  "profile",
                       "name":  "Rocket League Quick Chat Deck",
@@ -457,10 +812,31 @@
                                    "psyonix"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.rocketleague/1.0.0/com.commanddeckapp.profile.rocketleague-1.0.0.cdpkg",
-                      "sha256":  "16709c0e0e1e9ad5b9665e61241d495b19a1c7342f528ad587c680c22c760c3c",
+                      "sha256":  "fd2d80efe888feb9c3b27ec3dc16a770e366dcad1c1f1fea9cf0a07221c7e069",
                       "sizeBytes":  2119,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.rocketleague/1.0.0/Rocket League Quick Chat Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.rust",
+                      "type":  "profile",
+                      "name":  "Rust Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Hotbar, inventory, map and voice on one deck. Rust defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Rust",
+                                   "survival",
+                                   "crafting",
+                                   "pvp",
+                                   "multiplayer"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.rust/1.0.0/com.commanddeckapp.profile.rust-1.0.0.cdpkg",
+                      "sha256":  "92cd03ade3a0bc6a7d5e55f33009bf3f3cf10450dffde9d716b4f547ae696508",
+                      "sizeBytes":  1818,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.rust/1.0.0/Rust Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.starcitizen",
@@ -478,10 +854,136 @@
                                    "mmo"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.starcitizen/1.0.0/com.commanddeckapp.profile.starcitizen-1.0.0.cdpkg",
-                      "sha256":  "98e354ac7c3a59c6d40b4fd6174decfdb1ff1f8c6c3800646450e5fc11e4b36e",
+                      "sha256":  "7ae09e0942e43229780c9234aba7e078936e08fe129829f78df9c7e64d9f7147",
                       "sizeBytes":  2060,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.starcitizen/1.0.0/Star Citizen Flight Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.stardewvalley",
+                      "type":  "profile",
+                      "name":  "Stardew Valley Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Tools, journal, map and the whole toolbar on one deck. Stardew Valley defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Stardew Valley",
+                                   "farming",
+                                   "cozy",
+                                   "simulation",
+                                   "rpg"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.stardewvalley/1.0.0/com.commanddeckapp.profile.stardewvalley-1.0.0.cdpkg",
+                      "sha256":  "13e7f712ac2942280c064a492767cab55702017adefcdde5b577b7054f46bb26",
+                      "sizeBytes":  1847,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.stardewvalley/1.0.0/Stardew Valley Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.subnautica",
+                      "type":  "profile",
+                      "name":  "Subnautica Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "PDA, torch, quick slots and movement for deep dives. Subnautica defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Subnautica",
+                                   "survival",
+                                   "underwater",
+                                   "exploration",
+                                   "crafting"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.subnautica/1.0.0/com.commanddeckapp.profile.subnautica-1.0.0.cdpkg",
+                      "sha256":  "f0cad46ceeee576e48e7b7d15773953a2b249d8efb4ec8adbf75fcdf730a1aca",
+                      "sizeBytes":  1730,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.subnautica/1.0.0/Subnautica Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.tf2",
+                      "type":  "profile",
+                      "name":  "Team Fortress 2 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Voice menus, call medic, class change and weapon slots. Team Fortress 2 defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Team Fortress 2",
+                                   "fps",
+                                   "shooter",
+                                   "valve",
+                                   "multiplayer"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.tf2/1.0.0/com.commanddeckapp.profile.tf2-1.0.0.cdpkg",
+                      "sha256":  "60174af3f2e4181205cfd3db890155775df320ad00c7a1b2fc62f491606ec13f",
+                      "sizeBytes":  2005,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.tf2/1.0.0/Team Fortress 2 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.terraria",
+                      "type":  "profile",
+                      "name":  "Terraria Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Quick heal, quick buff, hook and mount on one deck. Terraria defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Terraria",
+                                   "sandbox",
+                                   "survival",
+                                   "crafting",
+                                   "2d"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.terraria/1.0.0/com.commanddeckapp.profile.terraria-1.0.0.cdpkg",
+                      "sha256":  "dce9233a0600a77ce2b7813e64dbeae3e3606bdd06d926483f225767ff41c0c0",
+                      "sizeBytes":  1885,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.terraria/1.0.0/Terraria Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.sims4",
+                      "type":  "profile",
+                      "name":  "The Sims 4 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Mode switching, game speed, build tools and the cheat console. The Sims 4 defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:The Sims 4",
+                                   "life sim",
+                                   "building",
+                                   "sandbox",
+                                   "ea"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.sims4/1.0.0/com.commanddeckapp.profile.sims4-1.0.0.cdpkg",
+                      "sha256":  "3404f2baa93a1ab29f84313631f44d0389a867e8c0dc8dfd81408e4c338b6982",
+                      "sizeBytes":  1931,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.sims4/1.0.0/The Sims 4 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.valheim",
+                      "type":  "profile",
+                      "name":  "Valheim Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Hotbar, inventory, map and sit bound to one deck. Valheim defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Valheim",
+                                   "survival",
+                                   "viking",
+                                   "coop",
+                                   "building"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.valheim/1.0.0/com.commanddeckapp.profile.valheim-1.0.0.cdpkg",
+                      "sha256":  "89bb18a1b2453f5a70d35877423dca2d35deb56326924686b18c6a56015e24e0",
+                      "sizeBytes":  1802,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.valheim/1.0.0/Valheim Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.valorant",
@@ -499,10 +1001,31 @@
                                    "riot"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.valorant/1.0.0/com.commanddeckapp.profile.valorant-1.0.0.cdpkg",
-                      "sha256":  "f8565fa66521a2df0f6e52fd8e5265d7159a105b3651a942816a901db66bb898",
+                      "sha256":  "dcaf60ec0eb1e98033fbfd51e570a8f1c3a13c1ba030c17fe05929a67a64f4bd",
                       "sizeBytes":  2160,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.valorant/1.0.0/VALORANT Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.warframe",
+                      "type":  "profile",
+                      "name":  "Warframe Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Four abilities, transference, gear wheel and movement on one deck. Warframe defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Warframe",
+                                   "looter shooter",
+                                   "coop",
+                                   "action",
+                                   "sci-fi"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.warframe/1.0.0/com.commanddeckapp.profile.warframe-1.0.0.cdpkg",
+                      "sha256":  "a91fe7203b7e214ce6ad9df56776ad27b5471e1490217857fbe6d6324fd13e1e",
+                      "sizeBytes":  1912,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.warframe/1.0.0/Warframe Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.wow",
@@ -520,7 +1043,7 @@
                                    "raid"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.wow/1.0.0/com.commanddeckapp.profile.wow-1.0.0.cdpkg",
-                      "sha256":  "3ad4db6f073b7959322345d602ddf2f42c767a2216650b97a28e8599f94d0436",
+                      "sha256":  "2043fdd0022389a3125e1f5201d6e4b458ec8122c8a5b0fec1afbae717a81379",
                       "sizeBytes":  2190,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.wow/1.0.0/World of Warcraft Deck.profile"
