@@ -1,7 +1,7 @@
 {
     "schema":  "cdcatalog/v1",
     "name":  "Apps for CommandDeck",
-    "updated":  "2026-07-28T20:45:30.3853498Z",
+    "updated":  "2026-07-28T22:08:24.7697318Z",
     "items":  [
                   {
                       "id":  "com.commanddeck.discord",
@@ -20,7 +20,7 @@
                                    "push-to-talk"
                                ],
                       "download":  "packages/com.commanddeck.discord/1.0.0/com.commanddeck.discord-1.0.0.cdpkg",
-                      "sha256":  "d8081f8f96f38cf2ef60d994584f9116f0283691310f7b285e722fcd13f6d613",
+                      "sha256":  "19af99eb9ccb56153e37968549f1174a0f9ad5d0027bdd947c41949b97760028",
                       "sizeBytes":  104119,
                       "icon":  "packages/com.commanddeck.discord/1.0.0/icon.svg"
                   },
@@ -54,8 +54,8 @@
                                    "smart-home"
                                ],
                       "download":  "packages/com.commanddeck.homeassistant/1.0.0/com.commanddeck.homeassistant-1.0.0.cdpkg",
-                      "sha256":  "68cfb11e5c2c00c96f91f6558fb83b336b841b71dd81325ae22fa22c5e015ed0",
-                      "sizeBytes":  56880,
+                      "sha256":  "544b094d1802b39748d5508e114477279c299e40e5543f969af03b18d6c8209f",
+                      "sizeBytes":  56881,
                       "icon":  "packages/com.commanddeck.homeassistant/1.0.0/icon.svg"
                   },
                   {
@@ -76,7 +76,7 @@
                                    "timer"
                                ],
                       "download":  "packages/com.commanddeck.powerpoint/1.0.0/com.commanddeck.powerpoint-1.0.0.cdpkg",
-                      "sha256":  "470111eb876eb5bbaf3f079a1b5f90a9eec619f6a5d100f18398e6fb26aa64f5",
+                      "sha256":  "cbf9cf43585300cc21865fe5851f8c2f56ffa4565a0b863dfe3398ac143f69d5",
                       "sizeBytes":  60980,
                       "icon":  "packages/com.commanddeck.powerpoint/1.0.0/icon.svg"
                   },
@@ -95,7 +95,7 @@
                                    "spotify"
                                ],
                       "download":  "packages/com.commanddeck.spotify/2.1.0/com.commanddeck.spotify-2.1.0.cdpkg",
-                      "sha256":  "3d74ab8098918f6efd1fd4eccb6e233f5ce31c604a531d5aefcf049fdaae845d",
+                      "sha256":  "9592b3ae0839634d1efe5f22852963f34b149229499dedb7627cf5ec9e0ddc30",
                       "sizeBytes":  59740,
                       "icon":  "packages/com.commanddeck.spotify/2.1.0/icon.svg"
                   },
@@ -103,7 +103,7 @@
                       "id":  "com.commanddeck.streamoverlay",
                       "type":  "app",
                       "name":  "Stream Overlay",
-                      "version":  "3.1.0",
+                      "version":  "3.2.0",
                       "author":  "CommandDeck",
                       "description":  "Build broadcast scenes from text, images, GIFs, video, your webcam, web pages, shapes, clocks and alerts, then switch between them live. Keep a name bar or camera pinned across every scene, and put the whole thing on stream as an OBS browser source or a transparent window on top of your desktop.",
                       "category":  "Streaming",
@@ -117,10 +117,10 @@
                                    "youtube",
                                    "scenes"
                                ],
-                      "download":  "packages/com.commanddeck.streamoverlay/3.1.0/com.commanddeck.streamoverlay-3.1.0.cdpkg",
-                      "sha256":  "95d5f33d8f9055b4d4daa03e3369cd6e11bdd05dd9999c30c62de95a04afa95a",
-                      "sizeBytes":  58850,
-                      "icon":  "packages/com.commanddeck.streamoverlay/3.1.0/icon.svg"
+                      "download":  "packages/com.commanddeck.streamoverlay/3.2.0/com.commanddeck.streamoverlay-3.2.0.cdpkg",
+                      "sha256":  "ba0e9767d07029cbd188662605d7a762d9034574810f586f3ae357bbea203687",
+                      "sizeBytes":  60308,
+                      "icon":  "packages/com.commanddeck.streamoverlay/3.2.0/icon.svg"
                   },
                   {
                       "id":  "com.commanddeck.systemcontrol",
@@ -149,7 +149,7 @@
                                    "recycle bin"
                                ],
                       "download":  "packages/com.commanddeck.systemcontrol/1.0.0/com.commanddeck.systemcontrol-1.0.0.cdpkg",
-                      "sha256":  "06ef23d955e8da4968de6d794ca43d8eb96a5d5b3776648cb2df3a3189360bc3",
+                      "sha256":  "62287db48b3b306bdd4abd228c6f0646fee49b79f0a2c4f26190d68613c61895",
                       "sizeBytes":  97244,
                       "icon":  "packages/com.commanddeck.systemcontrol/1.0.0/icon.svg"
                   },
@@ -172,7 +172,7 @@
                                    "control"
                                ],
                       "download":  "packages/com.commanddeck.volumecontrol/2.2.0/com.commanddeck.volumecontrol-2.2.0.cdpkg",
-                      "sha256":  "bdbabdcc65f700ec5178586c3dc80750967d25a7d0bd15133804e1da2a44e024",
+                      "sha256":  "63763107eed5ad704d2eefa931ee5239b940d7c00c4844f9201af36d09b9ed13",
                       "sizeBytes":  15169,
                       "icon":  "packages/com.commanddeck.volumecontrol/2.2.0/icon.svg"
                   },
@@ -191,7 +191,7 @@
                                    "open-meteo"
                                ],
                       "download":  "packages/com.commanddeck.weather/1.0.0/com.commanddeck.weather-1.0.0.cdpkg",
-                      "sha256":  "118ea6b275755ce2d6611e3c1a45f50d1f8637e19448ca6da667cf184c0ffa2e",
+                      "sha256":  "d33e9f0faa9984f83aed9bf4cc910296e7043c8c1eb452f60a03ec6bb01d5799",
                       "sizeBytes":  24660,
                       "icon":  "packages/com.commanddeck.weather/1.0.0/icon.svg"
                   },
@@ -210,7 +210,7 @@
                                    "world"
                                ],
                       "download":  "packages/com.commanddeck.worldclock/1.0.0/com.commanddeck.worldclock-1.0.0.cdpkg",
-                      "sha256":  "0972ebdcd7572e95244e306e4eb1cbd5205c8f1dcac4f8fcc3a7cbcfd35804f5",
+                      "sha256":  "9d67407efd1f0b1da4aec13ba133d290f1fdd79c4e0f8fcabd3eff230893d019",
                       "sizeBytes":  7196,
                       "icon":  "packages/com.commanddeck.worldclock/1.0.0/icon.svg"
                   },
@@ -250,11 +250,33 @@
                                    "hero"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.apex/1.0.0/com.commanddeckapp.profile.apex-1.0.0.cdpkg",
-                      "sha256":  "235aea24c02054ebd5692b19ed6542e8bf90a1ebbde472a435afb454b4243b7e",
+                      "sha256":  "7bd6b0020f3632ff3d3aee229b42269963070180e2e6fd120f97d5cac5473642",
                       "sizeBytes":  2180,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/library_600x900.jpg",
                       "profileFile":  "packages/com.commanddeckapp.profile.apex/1.0.0/Apex Legends Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.ark",
+                      "type":  "profile",
+                      "name":  "ARK Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Every tame whistle on its own tile, plus stances, inventory and the map. ARK keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:ARK: Survival Evolved",
+                                   "survival",
+                                   "dinosaurs",
+                                   "co-op",
+                                   "crafting"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.ark/1.0.0/com.commanddeckapp.profile.ark-1.0.0.cdpkg",
+                      "sha256":  "7f1ee30d803dd1c67c25382a1ac8cb56f652fcce6d56b99e24693d5e1afccdd9",
+                      "sizeBytes":  2445,
+                      "license":  "CC-BY-4.0",
+                      "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/library_600x900.jpg",
+                      "profileFile":  "packages/com.commanddeckapp.profile.ark/1.0.0/ARK Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.bg3",
@@ -272,7 +294,7 @@
                                    "larian"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.bg3/1.0.0/com.commanddeckapp.profile.bg3-1.0.0.cdpkg",
-                      "sha256":  "256279e0ebfaecc0b9db32b39c2be3bf742a17c5f30fa2602521d09482d925d6",
+                      "sha256":  "c47cd6f5629de1a3e1bea2f4ce2366aadfb929621bf5f6a06d26b95cddd412b1",
                       "sizeBytes":  2186,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_600x900.jpg",
@@ -294,7 +316,7 @@
                                    "vehicles"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.battlefield2042/1.0.0/com.commanddeckapp.profile.battlefield2042-1.0.0.cdpkg",
-                      "sha256":  "bfe5b7dbca443749e6ff8361c7c74a8568fe34728218729195515640bafdf1b4",
+                      "sha256":  "d34a1e9a0c5a1137526d084b772966c49625c87b1fbf3c32ef94bdea888d7058",
                       "sizeBytes":  1903,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/library_600x900.jpg",
@@ -316,7 +338,7 @@
                                    "valve"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.cs2/1.0.0/com.commanddeckapp.profile.cs2-1.0.0.cdpkg",
-                      "sha256":  "07b017a103982f49adb82032931fa41d523f50a7f321d5617815effa074dab42",
+                      "sha256":  "6da3f1e0d618a60da9a3fd81714fb70f838d27da2aa2f1e5692a7430167b1e97",
                       "sizeBytes":  2214,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/730/library_600x900.jpg",
@@ -338,11 +360,55 @@
                                    "cdpr"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.cyberpunk2077/1.0.0/com.commanddeckapp.profile.cyberpunk2077-1.0.0.cdpkg",
-                      "sha256":  "b8152580758cbeb81a120f2c5307c349880d9407090c4265664e3f7e4116a6d2",
+                      "sha256":  "c22e028fd43ba8e9c52401430bbdcf3bb6361897f7cc86a0d161f29bf8e7d68e",
                       "sizeBytes":  2162,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900.jpg",
                       "profileFile":  "packages/com.commanddeckapp.profile.cyberpunk2077/1.0.0/Cyberpunk 2077 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.deeprock",
+                      "type":  "profile",
+                      "name":  "Deep Rock Galactic Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Weapons, tools, flares and the MULE call on one deck. Rock and Stone.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Deep Rock Galactic",
+                                   "co-op",
+                                   "fps",
+                                   "mining",
+                                   "dwarves"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.deeprock/1.0.0/com.commanddeckapp.profile.deeprock-1.0.0.cdpkg",
+                      "sha256":  "0c2bc4610ac457c6770c39ee6b11e304846acce1d05c05a38c1d0339b0121392",
+                      "sizeBytes":  2084,
+                      "license":  "CC-BY-4.0",
+                      "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/library_600x900.jpg",
+                      "profileFile":  "packages/com.commanddeckapp.profile.deeprock/1.0.0/Deep Rock Galactic Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.destiny2",
+                      "type":  "profile",
+                      "name":  "Destiny 2 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Abilities, weapon slots, the Ghost and all four emotes on one deck. Destiny 2 keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Destiny 2",
+                                   "fps",
+                                   "looter-shooter",
+                                   "bungie",
+                                   "co-op"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.destiny2/1.0.0/com.commanddeckapp.profile.destiny2-1.0.0.cdpkg",
+                      "sha256":  "e5fd2238a0a0a01f42f5a10662d7a608d708e04ec120ee72f26495c348b3635a",
+                      "sizeBytes":  2080,
+                      "license":  "CC-BY-4.0",
+                      "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/library_600x900.jpg",
+                      "profileFile":  "packages/com.commanddeckapp.profile.destiny2/1.0.0/Destiny 2 Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.diablo4",
@@ -360,7 +426,7 @@
                                    "action"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.diablo4/1.0.0/com.commanddeckapp.profile.diablo4-1.0.0.cdpkg",
-                      "sha256":  "81db91d227b12baba2875074f1996d49f501ccc160f39220271908f138166be1",
+                      "sha256":  "8da6e49af6a7cee8b3e62e3d7044653da5f1cab6b6aeecc045b1626eb61958ce",
                       "sizeBytes":  1761,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/library_600x900.jpg",
@@ -382,7 +448,7 @@
                                    "esports"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.dota2/1.0.0/com.commanddeckapp.profile.dota2-1.0.0.cdpkg",
-                      "sha256":  "860a937c15062b53f96c277114af092c9191aeb987b80062b0e758b2c3b374e4",
+                      "sha256":  "c95f3f0b0faad3548fa3538a96e7879558f3676b7f269903962a66567a35e8db",
                       "sizeBytes":  1873,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/570/library_600x900.jpg",
@@ -404,7 +470,7 @@
                                    "fromsoftware"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.eldenring/1.0.0/com.commanddeckapp.profile.eldenring-1.0.0.cdpkg",
-                      "sha256":  "c8d72507bb2aed6f37399f17ac014c0d504d3a0547010724fb644bb7abfe87f3",
+                      "sha256":  "91fc4dc7613125f7d0db350fd4500a5642a5a1442a9a399558e094cd51b3298d",
                       "sizeBytes":  1847,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_600x900.jpg",
@@ -426,7 +492,7 @@
                                    "trading"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.elitedangerous/1.0.0/com.commanddeckapp.profile.elitedangerous-1.0.0.cdpkg",
-                      "sha256":  "64de495b7a3ad2e6839486ee266547a9c60ec262de911e0c1b70f44c0c41513a",
+                      "sha256":  "a9d194f0c9a3f72476fc478bf3c18b72f32effa81309d6b9f8c62e383ff32f74",
                       "sizeBytes":  2131,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/359320/library_600x900.jpg",
@@ -448,7 +514,7 @@
                                    "milsim"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.tarkov/1.0.0/com.commanddeckapp.profile.tarkov-1.0.0.cdpkg",
-                      "sha256":  "4a02b1c09445d52d38267f6b5632e381c574db535e063f6e60b62c3cdf42c9ad",
+                      "sha256":  "3b8b5ee58d073079c1a6f4d376d1c9a12cf90156b4c5371a36b99c0796603513",
                       "sizeBytes":  2129,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.tarkov/1.0.0/Escape from Tarkov Deck.profile"
@@ -469,7 +535,7 @@
                                    "scs"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.ets2/1.0.0/com.commanddeckapp.profile.ets2-1.0.0.cdpkg",
-                      "sha256":  "ce61ca134ddfeeaac2a88b5bef058f753a649a749846515eb89380a0656ccf26",
+                      "sha256":  "4db387eb547b7db2047d0e2fa8fcebae3a2e859fef8ea3937fa75cd0ca3b865e",
                       "sizeBytes":  1919,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/library_600x900.jpg",
@@ -491,7 +557,7 @@
                                    "strategy"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.factorio/1.0.0/com.commanddeckapp.profile.factorio-1.0.0.cdpkg",
-                      "sha256":  "1da6fa849a26a35dc7fb3e045c96e935657a44c9d61bed62df6576e6bc9c2b3e",
+                      "sha256":  "3c85a9e294fb444a660a8384cdd85867a8ce82ca78e099db6227ea3924b0bc04",
                       "sizeBytes":  1866,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/library_600x900.jpg",
@@ -513,7 +579,7 @@
                                    "epic"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.fortnite/1.0.0/com.commanddeckapp.profile.fortnite-1.0.0.cdpkg",
-                      "sha256":  "85c73a2107a5285a71f323297aba088f0d05b46ede73c5f4d243d6ef0f081f08",
+                      "sha256":  "7d2a07bd83b7fd2853a337eb091eaf9c3a750251bb314e6345bcb56f7d1d9f23",
                       "sizeBytes":  2067,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.fortnite/1.0.0/Fortnite Deck.profile"
@@ -534,7 +600,7 @@
                                    "hoyoverse"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.genshinimpact/1.0.0/com.commanddeckapp.profile.genshinimpact-1.0.0.cdpkg",
-                      "sha256":  "7d0b20dd1963d9c5d1502cd216367901a5503364e71f532ba3556a18e066b909",
+                      "sha256":  "c3dfe88010beb29538da298608a14ce41a9cc02a1542a0440da2e53753a032b3",
                       "sizeBytes":  1824,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.genshinimpact/1.0.0/Genshin Impact Deck.profile"
@@ -555,7 +621,7 @@
                                    "driving"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.gtav/1.0.0/com.commanddeckapp.profile.gtav-1.0.0.cdpkg",
-                      "sha256":  "07be19f2777f28abc326a40aa1b66a6cf052aa982cc17a923ea678e83b9a22e7",
+                      "sha256":  "9305653f2a2d3cef96970a8b6172bf50aa1a6543ee22569f8b7f7f0b8e14dcea",
                       "sizeBytes":  1824,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/library_600x900.jpg",
@@ -576,7 +642,7 @@
                                    "multiplayer"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.haloinfinite/1.0.0/com.commanddeckapp.profile.haloinfinite-1.0.0.cdpkg",
-                      "sha256":  "e8a24dae5f198ebe36e5a8a7d36f105cb0f3884d8113edcd3326754d529c2ea2",
+                      "sha256":  "13717440f77ec586013ad2eef874a3545ca7c3a474333c8cb3e82e9e1cc1a441",
                       "sizeBytes":  1848,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1240440/library_600x900.jpg",
@@ -598,7 +664,7 @@
                                    "arrowhead"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.helldivers2/1.0.0/com.commanddeckapp.profile.helldivers2-1.0.0.cdpkg",
-                      "sha256":  "82f409f4a327a523b2b850d2a8763f2a24943ad0fdc88e88a059d9f78d6263b3",
+                      "sha256":  "19e14199b0e8c183d586bac2ae7498d62ba9730b4f3dd5465b96afd428e5b28b",
                       "sizeBytes":  2113,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/library_600x900.jpg",
@@ -620,7 +686,7 @@
                                    "sandbox"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.ksp/1.0.0/com.commanddeckapp.profile.ksp-1.0.0.cdpkg",
-                      "sha256":  "0344a533135e704d280b587dccc0f2bdc19fd4610c4dcfad1581c3157001b285",
+                      "sha256":  "e5b4cd423c94badd0c47fee873441c801550d3182ccf8b7778a566e186e9d20b",
                       "sizeBytes":  2072,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/220200/library_600x900.jpg",
@@ -642,10 +708,32 @@
                                    "esports"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.leagueoflegends/1.0.0/com.commanddeckapp.profile.leagueoflegends-1.0.0.cdpkg",
-                      "sha256":  "f8233549b80b708ea7a637dea49c24054f222ab077a08648d4113223399e37b0",
+                      "sha256":  "ba1a854cbb4d953f4d1d0ec4b618085a1955a4773c29b01a070ef7d1580c830d",
                       "sizeBytes":  2108,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.leagueoflegends/1.0.0/League of Legends Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.marvelrivals",
+                      "type":  "profile",
+                      "name":  "Marvel Rivals Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Three abilities, the ultimate, all three team-ups and the match keys on one deck.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Marvel Rivals",
+                                   "hero-shooter",
+                                   "pvp",
+                                   "marvel",
+                                   "team"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.marvelrivals/1.0.0/com.commanddeckapp.profile.marvelrivals-1.0.0.cdpkg",
+                      "sha256":  "ba95a94b0b5aab28bf71f30fb3d52763e15c7ad33a05645659b6f9f2e8319f29",
+                      "sizeBytes":  2066,
+                      "license":  "CC-BY-4.0",
+                      "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/library_600x900.jpg",
+                      "profileFile":  "packages/com.commanddeckapp.profile.marvelrivals/1.0.0/Marvel Rivals Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.minecraft",
@@ -663,7 +751,7 @@
                                    "mojang"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.minecraft/1.0.0/com.commanddeckapp.profile.minecraft-1.0.0.cdpkg",
-                      "sha256":  "760969d20d6a939563b4316bb442ade5666100066f4c683630e63950e2f98395",
+                      "sha256":  "5af518659ba56655e4a212181a675b68202a1d4e7e1c2bf0d591c2cfafab5095",
                       "sizeBytes":  2165,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.minecraft/1.0.0/Minecraft (Java) Deck.profile"
@@ -704,7 +792,7 @@
                                    "sandbox"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.nomanssky/1.0.0/com.commanddeckapp.profile.nomanssky-1.0.0.cdpkg",
-                      "sha256":  "fbdf5fc34995110575fd4c0c026d483a866e80af267cbda27d9414fc74f47c15",
+                      "sha256":  "7da2baf71644bdedf9c772e9d016e1651c561b9139ba57b5ee13c78bcefae6ad",
                       "sizeBytes":  1739,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/library_600x900.jpg",
@@ -725,7 +813,7 @@
                                    "capture"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.obsstreaming/1.0.0/com.commanddeckapp.profile.obsstreaming-1.0.0.cdpkg",
-                      "sha256":  "07beab08c4cb037e60064c384ab40a00c972df80dae46e145da4a71ac48a5a6d",
+                      "sha256":  "10363edebfa731b6fbaa58ae62d321f9203ea9fc674efc2f805bd6b52f7a339b",
                       "sizeBytes":  1772,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1905180/library_600x900.jpg",
@@ -747,7 +835,7 @@
                                    "multiplayer"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.overwatch2/1.0.0/com.commanddeckapp.profile.overwatch2-1.0.0.cdpkg",
-                      "sha256":  "406d7400980fff65cf4dca8d9ad5b3a5263bc81aaa18031b937bdc71e114a44c",
+                      "sha256":  "5d14acb351e91584e780706e4bdce3e1d0584813a7ca9d2df5460cc8882655f9",
                       "sizeBytes":  1810,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/2357570/library_600x900.jpg",
@@ -788,7 +876,7 @@
                                    "ggg"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.pathofexile/1.0.0/com.commanddeckapp.profile.pathofexile-1.0.0.cdpkg",
-                      "sha256":  "6adaf9e1172959168a9fdbba1007af48b1de99d8a7894771101dc6e9d0e23a10",
+                      "sha256":  "2c6e0f25ce68d3fd620703139f0454ac55299a1fbc9e244c04363cff5f105d16",
                       "sizeBytes":  1864,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/238960/library_600x900.jpg",
@@ -810,11 +898,33 @@
                                    "survival"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.pubg/1.0.0/com.commanddeckapp.profile.pubg-1.0.0.cdpkg",
-                      "sha256":  "05597508ca6d03f1051bdc40a31b22642f6f31d1262f66ab298eb16d0497fb77",
+                      "sha256":  "0e1648f9859115364e2f4fe8f5c9576e0d835475ebbc9d109e27e1ebf4c4c14c",
                       "sizeBytes":  2110,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/library_600x900.jpg",
                       "profileFile":  "packages/com.commanddeckapp.profile.pubg/1.0.0/PUBG- Battlegrounds Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.r6siege",
+                      "type":  "profile",
+                      "name":  "Rainbow Six Siege Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Leans, gadgets, drone and camera access, and the comms keys. Siege keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Tom Clancy\u0027s Rainbow Six Siege",
+                                   "fps",
+                                   "tactical",
+                                   "competitive",
+                                   "ubisoft"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.r6siege/1.0.0/com.commanddeckapp.profile.r6siege-1.0.0.cdpkg",
+                      "sha256":  "1447bcfdfda6d17ce4d3dcb90dd7c97680dc6dd3a5a389e47498e7f24f68590c",
+                      "sizeBytes":  2076,
+                      "license":  "CC-BY-4.0",
+                      "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/library_600x900.jpg",
+                      "profileFile":  "packages/com.commanddeckapp.profile.r6siege/1.0.0/Rainbow Six Siege Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.rocketleague",
@@ -832,7 +942,7 @@
                                    "psyonix"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.rocketleague/1.0.0/com.commanddeckapp.profile.rocketleague-1.0.0.cdpkg",
-                      "sha256":  "92c4f937a951b5c2bcd806955799dcafc6b7385680e963527b225d36c45355c7",
+                      "sha256":  "d592e225bfa638c9b2b41aef259fe70e58ee5446b29997e0bc50812d41f21400",
                       "sizeBytes":  2185,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/252950/library_600x900.jpg",
@@ -854,11 +964,77 @@
                                    "multiplayer"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.rust/1.0.0/com.commanddeckapp.profile.rust-1.0.0.cdpkg",
-                      "sha256":  "8a3c222cafc728324c52d4d64be561a48248042f428af5e4bbfc47cd14f7f1c1",
+                      "sha256":  "8b46eb8dde3fed43da5502c764e8b21523aacc47e2982977b1f15a3dad258026",
                       "sizeBytes":  1880,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/library_600x900.jpg",
                       "profileFile":  "packages/com.commanddeckapp.profile.rust/1.0.0/Rust Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.satisfactory",
+                      "type":  "profile",
+                      "name":  "Satisfactory Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Build menu, dismantle, nudge controls and the hotbar for factory building.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Satisfactory",
+                                   "factory",
+                                   "building",
+                                   "survival",
+                                   "coffee-stain"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.satisfactory/1.0.0/com.commanddeckapp.profile.satisfactory-1.0.0.cdpkg",
+                      "sha256":  "65bcf2a6985803d4cd0044b9af9ddf914a80a018af6ef5b80e476cc4dbb83a4f",
+                      "sizeBytes":  2325,
+                      "license":  "CC-BY-4.0",
+                      "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/526870/library_600x900.jpg",
+                      "profileFile":  "packages/com.commanddeckapp.profile.satisfactory/1.0.0/Satisfactory Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.seaofthieves",
+                      "type":  "profile",
+                      "name":  "Sea of Thieves Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Interacts, the item radial and crew comms on one deck. Sea of Thieves keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Sea of Thieves",
+                                   "pirates",
+                                   "co-op",
+                                   "sailing",
+                                   "rare"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.seaofthieves/1.0.0/com.commanddeckapp.profile.seaofthieves-1.0.0.cdpkg",
+                      "sha256":  "0b56288d80cf677b1e37ae9c08b1775643d0a56717838b2201a2682446902232",
+                      "sizeBytes":  1812,
+                      "license":  "CC-BY-4.0",
+                      "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/library_600x900.jpg",
+                      "profileFile":  "packages/com.commanddeckapp.profile.seaofthieves/1.0.0/Sea of Thieves Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.skyrimse",
+                      "type":  "profile",
+                      "name":  "Skyrim Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Shouts, sneaking, every menu and the quicksave pair on one deck. Skyrim keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:The Elder Scrolls V: Skyrim Special Edition",
+                                   "rpg",
+                                   "open-world",
+                                   "bethesda",
+                                   "fantasy"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.skyrimse/1.0.0/com.commanddeckapp.profile.skyrimse-1.0.0.cdpkg",
+                      "sha256":  "ecead61f90c2cf23b1e2c808a3c7f112be425cab872ce7b84433ad28399ddb10",
+                      "sizeBytes":  2149,
+                      "license":  "CC-BY-4.0",
+                      "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/library_600x900.jpg",
+                      "profileFile":  "packages/com.commanddeckapp.profile.skyrimse/1.0.0/Skyrim Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.starcitizen",
@@ -876,7 +1052,7 @@
                                    "mmo"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.starcitizen/1.0.0/com.commanddeckapp.profile.starcitizen-1.0.0.cdpkg",
-                      "sha256":  "344e80cf5a7931800965d610a511c1e1b972cb7b2bbd84c4a32cea1e5c8170c9",
+                      "sha256":  "705c689fe229dffed344f373bd161d775e1668a03ccc6ef2072edc7e1db89b4f",
                       "sizeBytes":  2060,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.starcitizen/1.0.0/Star Citizen Flight Deck.profile"
@@ -897,7 +1073,7 @@
                                    "rpg"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.stardewvalley/1.0.0/com.commanddeckapp.profile.stardewvalley-1.0.0.cdpkg",
-                      "sha256":  "6e7c0313436923ee8317e130994d15fd9dabcc6c0a2fd17fe1997d5edc09bbba",
+                      "sha256":  "ceda50a91b5dd03f5875d2ce2a50dcf0d1895845c2556fca4f25c26e314f7cf3",
                       "sizeBytes":  1908,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/library_600x900.jpg",
@@ -919,7 +1095,7 @@
                                    "crafting"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.subnautica/1.0.0/com.commanddeckapp.profile.subnautica-1.0.0.cdpkg",
-                      "sha256":  "3dfbad12b93e9d16077752a78a3ae3f974c262d125dd82a946904beb5303bf56",
+                      "sha256":  "3ee2f6e3e0579f9a2c447019d681be25d4a9457b3e64b5864c9cf016769a8128",
                       "sizeBytes":  1794,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/library_600x900.jpg",
@@ -941,7 +1117,7 @@
                                    "multiplayer"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.tf2/1.0.0/com.commanddeckapp.profile.tf2-1.0.0.cdpkg",
-                      "sha256":  "2f29af5e6833d70b3957a86b3a2769c12599ebe337fc592e16c34e369e041156",
+                      "sha256":  "3877fffb2da792666f97905d5f331e22782bc36caccf168aefceaef7dd7ea83d",
                       "sizeBytes":  2065,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/440/library_600x900.jpg",
@@ -963,7 +1139,7 @@
                                    "2d"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.terraria/1.0.0/com.commanddeckapp.profile.terraria-1.0.0.cdpkg",
-                      "sha256":  "2dece46916287487214910c17ce3ecb9f863d12e21ecddddef5ace0267fb6767",
+                      "sha256":  "d96ff5bb93b0d529066010c1d4b52a32bc8be0cf929217104f16469ac9a60a69",
                       "sizeBytes":  1945,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_600x900.jpg",
@@ -985,11 +1161,33 @@
                                    "ea"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.sims4/1.0.0/com.commanddeckapp.profile.sims4-1.0.0.cdpkg",
-                      "sha256":  "80be386cd955786d934605a5c1b4c0fbc196b35490be3ecae31cad9ff4b21773",
+                      "sha256":  "6c5a4e18a3bd70ab547fe603108d6175573a699062e09988d2d0688d1c42b0c1",
                       "sizeBytes":  1994,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/library_600x900.jpg",
                       "profileFile":  "packages/com.commanddeckapp.profile.sims4/1.0.0/The Sims 4 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.witcher3",
+                      "type":  "profile",
+                      "name":  "The Witcher 3 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Every sign, both swords and the whole panel set on one deck. Witcher 3 keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:The Witcher 3: Wild Hunt",
+                                   "rpg",
+                                   "open-world",
+                                   "cdpr",
+                                   "fantasy"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.witcher3/1.0.0/com.commanddeckapp.profile.witcher3-1.0.0.cdpkg",
+                      "sha256":  "d8f2eee8a428b301d4900bc100e5489254e5f6da818a67805e218c95bdea84b0",
+                      "sizeBytes":  2464,
+                      "license":  "CC-BY-4.0",
+                      "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900.jpg",
+                      "profileFile":  "packages/com.commanddeckapp.profile.witcher3/1.0.0/The Witcher 3 Deck.profile"
                   },
                   {
                       "id":  "com.commanddeckapp.profile.valheim",
@@ -1007,7 +1205,7 @@
                                    "building"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.valheim/1.0.0/com.commanddeckapp.profile.valheim-1.0.0.cdpkg",
-                      "sha256":  "c0af704edc6e031f7446ced88b8ee4a001672b6822a8d241b6816f31b5c65fdf",
+                      "sha256":  "d4af17ebb75f6296eb34347f1741957d6035d6e4345e850ca06270465bbd6f56",
                       "sizeBytes":  1864,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/library_600x900.jpg",
@@ -1029,7 +1227,7 @@
                                    "riot"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.valorant/1.0.0/com.commanddeckapp.profile.valorant-1.0.0.cdpkg",
-                      "sha256":  "58cf91abba9a7517c092a13ad19519f02b99e8e0efab74235a854d9fce5d4609",
+                      "sha256":  "996e406000698adc2d54239bf1bf40e716a550c7235edd3c5fb17433c95f3531",
                       "sizeBytes":  2160,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.valorant/1.0.0/VALORANT Deck.profile"
@@ -1050,7 +1248,7 @@
                                    "sci-fi"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.warframe/1.0.0/com.commanddeckapp.profile.warframe-1.0.0.cdpkg",
-                      "sha256":  "1bf8e7b3eb9e764d0c6da8251351d00d7bfa586ad4e866ebb9d723efe8ab8c6e",
+                      "sha256":  "3dfedbe81cf23a99d2cc18173e9926e01ef9d4822ac6e8d8d8f4dd59e4bac714",
                       "sizeBytes":  1974,
                       "license":  "CC-BY-4.0",
                       "preview":  "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/library_600x900.jpg",
@@ -1072,7 +1270,7 @@
                                    "raid"
                                ],
                       "download":  "packages/com.commanddeckapp.profile.wow/1.0.0/com.commanddeckapp.profile.wow-1.0.0.cdpkg",
-                      "sha256":  "14535cb64578e58ef13e93dbe76851abde63173503c2f2e986c0246a26bde286",
+                      "sha256":  "359466fae6f5c2ac15b3c6633455100a97bbf4c3a1b8328cabe2c0d5e581e2ba",
                       "sizeBytes":  2190,
                       "license":  "CC-BY-4.0",
                       "profileFile":  "packages/com.commanddeckapp.profile.wow/1.0.0/World of Warcraft Deck.profile"
