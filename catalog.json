@@ -1,7 +1,7 @@
-﻿{
+{
     "schema":  "cdcatalog/v1",
     "name":  "Apps for CommandDeck",
-    "updated":  "2026-07-27T01:13:19.4258087Z",
+    "updated":  "2026-07-28T04:43:11.6548942Z",
     "items":  [
                   {
                       "id":  "com.commanddeck.discord",
@@ -9,7 +9,7 @@
                       "name":  "Discord",
                       "version":  "1.0.0",
                       "author":  "CommandDeck",
-                      "description":  "Mute, deafen, push-to-talk and channel switching for the Discord desktop client, with live voice status on every card.",
+                      "description":  "Mute, deafen, push-to-talk and channel switching for the Discord desktop client, plus a bot that runs your macros from Discord and turns Discord events into automations.",
                       "category":  "Communication",
                       "tags":  [
                                    "discord",
@@ -20,8 +20,8 @@
                                    "push-to-talk"
                                ],
                       "download":  "packages/com.commanddeck.discord/1.0.0/com.commanddeck.discord-1.0.0.cdpkg",
-                      "sha256":  "f2bc9ec007dab5f1821b0e82da8aef5b825e7087b9060d1addbc1bbca9f9f28d",
-                      "sizeBytes":  57472,
+                      "sha256":  "f92b957e47629620d84c7a15e496b3c699796b7a576cae7a79af321d1bca4d54",
+                      "sizeBytes":  91277,
                       "icon":  "packages/com.commanddeck.discord/1.0.0/icon.svg"
                   },
                   {
@@ -54,8 +54,9 @@
                                    "smart-home"
                                ],
                       "download":  "packages/com.commanddeck.homeassistant/1.0.0/com.commanddeck.homeassistant-1.0.0.cdpkg",
-                      "sha256":  "34f9c56b3bfdedf97a215907426e98bd3cac269c1799a9a0236956607e9c6e9a",
-                      "sizeBytes":  52274
+                      "sha256":  "13c0c05702208c656288693ddbe44f18f11a937968356dcaa9af3b98dc650c14",
+                      "sizeBytes":  57252,
+                      "icon":  "packages/com.commanddeck.homeassistant/1.0.0/icon.svg"
                   },
                   {
                       "id":  "com.commanddeck.powerpoint",
@@ -75,8 +76,8 @@
                                    "timer"
                                ],
                       "download":  "packages/com.commanddeck.powerpoint/1.0.0/com.commanddeck.powerpoint-1.0.0.cdpkg",
-                      "sha256":  "fef3b62f45617c364c685ef05f06ce0529636b17306c68c7ee51ffd689feaf53",
-                      "sizeBytes":  63286,
+                      "sha256":  "23c77ee61bf48d1b6a0ee329a4290919280b87347a24514cccf7530868439fcb",
+                      "sizeBytes":  60978,
                       "icon":  "packages/com.commanddeck.powerpoint/1.0.0/icon.svg"
                   },
                   {
@@ -94,17 +95,17 @@
                                    "spotify"
                                ],
                       "download":  "packages/com.commanddeck.spotify/2.1.0/com.commanddeck.spotify-2.1.0.cdpkg",
-                      "sha256":  "e73ca0a4940686267b2afcc695ba6de30ff85738a4fdd2a69b20e22a4ea90100",
-                      "sizeBytes":  63797,
+                      "sha256":  "ccd7ee6cbdefd3ccb041a4dc475e4cbd1228a0395e1188e164d4086c924c1fe3",
+                      "sizeBytes":  59739,
                       "icon":  "packages/com.commanddeck.spotify/2.1.0/icon.svg"
                   },
                   {
                       "id":  "com.commanddeck.streamoverlay",
                       "type":  "app",
                       "name":  "Stream Overlay",
-                      "version":  "2.0.0",
+                      "version":  "2.1.0",
                       "author":  "CommandDeck",
-                      "description":  "Design a broadcast overlay by dragging text and images onto a canvas, then push it live. Stack several layouts at once and use it as an OBS browser source or a transparent window on top of your desktop.",
+                      "description":  "Build broadcast scenes from text, images, GIFs, video, web pages, shapes, clocks and alerts, then switch between them live. Keep a name bar or webcam frame pinned across every scene, and put the whole thing on stream as an OBS browser source or a transparent window on top of your desktop.",
                       "category":  "Streaming",
                       "tags":  [
                                    "streaming",
@@ -113,12 +114,13 @@
                                    "broadcast",
                                    "live",
                                    "twitch",
-                                   "youtube"
+                                   "youtube",
+                                   "scenes"
                                ],
-                      "download":  "packages/com.commanddeck.streamoverlay/2.0.0/com.commanddeck.streamoverlay-2.0.0.cdpkg",
-                      "sha256":  "ca699b98613b7af61fef1b32c87198ca75c5fea3b40b18ea3344c24dc1235420",
-                      "sizeBytes":  29682,
-                      "icon":  "packages/com.commanddeck.streamoverlay/2.0.0/icon.svg"
+                      "download":  "packages/com.commanddeck.streamoverlay/2.1.0/com.commanddeck.streamoverlay-2.1.0.cdpkg",
+                      "sha256":  "51b63ae5b9ee2cc4704e90a2f008d07187c983dc6cc4c6cc5a89d57cc8c45bcb",
+                      "sizeBytes":  51658,
+                      "icon":  "packages/com.commanddeck.streamoverlay/2.1.0/icon.svg"
                   },
                   {
                       "id":  "com.commanddeck.systemcontrol",
@@ -147,8 +149,8 @@
                                    "recycle bin"
                                ],
                       "download":  "packages/com.commanddeck.systemcontrol/1.0.0/com.commanddeck.systemcontrol-1.0.0.cdpkg",
-                      "sha256":  "b4a3f77a7069de464c84a6b7092570079e2ef3303fdc986132c4c408c174316a",
-                      "sizeBytes":  100743,
+                      "sha256":  "ad088faa338a98c31a27eb0f4bf065f2a04317ac47563c7c920b10fa1c414f60",
+                      "sizeBytes":  95813,
                       "icon":  "packages/com.commanddeck.systemcontrol/1.0.0/icon.svg"
                   },
                   {
@@ -170,8 +172,8 @@
                                    "control"
                                ],
                       "download":  "packages/com.commanddeck.volumecontrol/2.2.0/com.commanddeck.volumecontrol-2.2.0.cdpkg",
-                      "sha256":  "a911b0c3dc64c2b6727380d4631072db94e9b8cc14430afc9b5fff8ea56f6595",
-                      "sizeBytes":  15408,
+                      "sha256":  "71639d74947f31a8190c9755f2abb85dbb7905ffc6b264cff1c1961b2250e751",
+                      "sizeBytes":  15169,
                       "icon":  "packages/com.commanddeck.volumecontrol/2.2.0/icon.svg"
                   },
                   {
@@ -189,8 +191,8 @@
                                    "open-meteo"
                                ],
                       "download":  "packages/com.commanddeck.weather/1.0.0/com.commanddeck.weather-1.0.0.cdpkg",
-                      "sha256":  "d48287e777d18038127a07ba44730bcb129d09532b9dff2afbd8693df5ed87b9",
-                      "sizeBytes":  26280,
+                      "sha256":  "066fcd31095082ad7509ce6b88627ec3e6630269e095800099cfe667efa84042",
+                      "sizeBytes":  24664,
                       "icon":  "packages/com.commanddeck.weather/1.0.0/icon.svg"
                   },
                   {
@@ -208,8 +210,8 @@
                                    "world"
                                ],
                       "download":  "packages/com.commanddeck.worldclock/1.0.0/com.commanddeck.worldclock-1.0.0.cdpkg",
-                      "sha256":  "90b15fc925f2153761e16ec8fc795c5b1d1be09ebf9089709e3988bec367db10",
-                      "sizeBytes":  7206,
+                      "sha256":  "a8984f0fe03a7d5ae86936484c9b66d96d0c55afe6ac67739f68aff14fa2caa4",
+                      "sizeBytes":  7196,
                       "icon":  "packages/com.commanddeck.worldclock/1.0.0/icon.svg"
                   },
                   {
@@ -231,6 +233,297 @@
                       "sha256":  "5cf728a43eb83d41a6c898100d23879c953fbc898f4924dc2686e9e344049c0f",
                       "sizeBytes":  6819,
                       "icon":  "packages/com.commanddeck.youtubelive/1.0.0/icon.svg"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.apex",
+                      "type":  "profile",
+                      "name":  "Apex Legends Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Tactical, ultimate, heals and weapon slots on one deck. Apex Legends keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Apex Legends",
+                                   "fps",
+                                   "battle-royale",
+                                   "shooter",
+                                   "hero"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.apex/1.0.0/com.commanddeckapp.profile.apex-1.0.0.cdpkg",
+                      "sha256":  "5582bbe34a4a16a3f069a60b0f105a7c994735852b5fdf2fba5fd298530f072f",
+                      "sizeBytes":  2116,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.apex/1.0.0/Apex Legends Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.bg3",
+                      "type":  "profile",
+                      "name":  "Baldur\u0027s Gate 3 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Party selection, turn-based toggle, every panel and quicksave on one deck. Baldur\u0027s Gate 3 defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Baldur\u0027s Gate 3",
+                                   "rpg",
+                                   "crpg",
+                                   "turn-based",
+                                   "larian"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.bg3/1.0.0/com.commanddeckapp.profile.bg3-1.0.0.cdpkg",
+                      "sha256":  "150a7a496a8e00ffa611845775f9e979f484035e8840da819288e506e5cbdeb9",
+                      "sizeBytes":  2123,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.bg3/1.0.0/Baldur\u0027s Gate 3 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.cs2",
+                      "type":  "profile",
+                      "name":  "Counter-Strike 2 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Buy menu, weapon slots, radio calls and utility bound to one deck. Counter-Strike 2 defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Counter-Strike 2",
+                                   "fps",
+                                   "shooter",
+                                   "esports",
+                                   "valve"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.cs2/1.0.0/com.commanddeckapp.profile.cs2-1.0.0.cdpkg",
+                      "sha256":  "63f0d1ad336eda20f8e1b91bdbbaf809d8045edf00bb0a2611b25fc52c321c65",
+                      "sizeBytes":  2155,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.cs2/1.0.0/Counter-Strike 2 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.cyberpunk2077",
+                      "type":  "profile",
+                      "name":  "Cyberpunk 2077 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Scanner, weapon slots, cyberware and every menu on one deck. Cyberpunk 2077 keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Cyberpunk 2077",
+                                   "rpg",
+                                   "open-world",
+                                   "shooter",
+                                   "cdpr"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.cyberpunk2077/1.0.0/com.commanddeckapp.profile.cyberpunk2077-1.0.0.cdpkg",
+                      "sha256":  "4b150a57ae8e8f6a1d1ebbb2e48e144e63f23039efe46062b822709f8bcbee99",
+                      "sizeBytes":  2099,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.cyberpunk2077/1.0.0/Cyberpunk 2077 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.tarkov",
+                      "type":  "profile",
+                      "name":  "Escape from Tarkov Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Ammo checks, weapon handling, stances and quick slots on one deck. Escape from Tarkov defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Escape from Tarkov",
+                                   "fps",
+                                   "extraction",
+                                   "hardcore",
+                                   "milsim"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.tarkov/1.0.0/com.commanddeckapp.profile.tarkov-1.0.0.cdpkg",
+                      "sha256":  "a469e0574aa78680ec4b9798e38d2fb503b6bfb5f60cc118e46458371638738d",
+                      "sizeBytes":  2129,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.tarkov/1.0.0/Escape from Tarkov Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.fortnite",
+                      "type":  "profile",
+                      "name":  "Fortnite Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Build pieces, edit, weapon slots and emotes on one deck. Fortnite keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Fortnite",
+                                   "battle-royale",
+                                   "shooter",
+                                   "building",
+                                   "epic"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.fortnite/1.0.0/com.commanddeckapp.profile.fortnite-1.0.0.cdpkg",
+                      "sha256":  "9c51d55c4565f63876592a369710773628ae6f06ca241d9ff9018404e2731bfb",
+                      "sizeBytes":  2067,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.fortnite/1.0.0/Fortnite Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.helldivers2",
+                      "type":  "profile",
+                      "name":  "HELLDIVERS 2 Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Stratagem menu, loadout slots, stances and squad pings on one deck. HELLDIVERS 2 keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:HELLDIVERS 2",
+                                   "shooter",
+                                   "co-op",
+                                   "third-person",
+                                   "arrowhead"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.helldivers2/1.0.0/com.commanddeckapp.profile.helldivers2-1.0.0.cdpkg",
+                      "sha256":  "b1ddb8003ef3ed651b96e589cab548ed005a3e946eecb18988bf72fd2ba88d20",
+                      "sizeBytes":  2049,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.helldivers2/1.0.0/HELLDIVERS 2 Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.minecraft",
+                      "type":  "profile",
+                      "name":  "Minecraft (Java) Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Hotbar, inventory, chat and the debug/screenshot keys on one deck. Minecraft Java Edition defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Minecraft",
+                                   "sandbox",
+                                   "survival",
+                                   "crafting",
+                                   "mojang"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.minecraft/1.0.0/com.commanddeckapp.profile.minecraft-1.0.0.cdpkg",
+                      "sha256":  "787bddf25f84846cbef1a9524daec149efd393f902e9e4bc2a1cefce0b850391",
+                      "sizeBytes":  2165,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.minecraft/1.0.0/Minecraft (Java) Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.msfs.airliner",
+                      "type":  "profile",
+                      "name":  "MSFS - Airliner Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Gear, flaps, spoilers, autopilot and lights for airliner flying.",
+                      "category":  "Flight Sim",
+                      "tags":  [
+                                   "game:Microsoft Flight Simulator",
+                                   "flight",
+                                   "autopilot",
+                                   "airliner"
+                               ],
+                      "download":  "packages/com.commanddeckapp.msfs.airliner/1.0.0/com.commanddeckapp.msfs.airliner-1.0.0.cdpkg",
+                      "sha256":  "a2095d9045abce4963f6cbc89ca00b572e3e0bbed9086712ecff64f07ecab02d",
+                      "sizeBytes":  1885,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.msfs.airliner/1.0.0/MSFS - Airliner Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.palworld",
+                      "type":  "profile",
+                      "name":  "Palworld Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Inventory, Pal Box, building and Pal commands on one deck.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Palworld",
+                                   "survival",
+                                   "crafting"
+                               ],
+                      "download":  "packages/com.commanddeckapp.palworld/1.0.0/com.commanddeckapp.palworld-1.0.0.cdpkg",
+                      "sha256":  "57cf8a2b31e6f264b8d625be0e317872977367a0f5bd774838344f45f75a6d00",
+                      "sizeBytes":  1757,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.palworld/1.0.0/Palworld Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.rocketleague",
+                      "type":  "profile",
+                      "name":  "Rocket League Quick Chat Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Every quick chat as its own button instead of a two-key combo you have to remember mid-air. Rocket League keyboard defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:Rocket League",
+                                   "sports",
+                                   "car",
+                                   "esports",
+                                   "psyonix"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.rocketleague/1.0.0/com.commanddeckapp.profile.rocketleague-1.0.0.cdpkg",
+                      "sha256":  "16709c0e0e1e9ad5b9665e61241d495b19a1c7342f528ad587c680c22c760c3c",
+                      "sizeBytes":  2119,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.rocketleague/1.0.0/Rocket League Quick Chat Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.starcitizen",
+                      "type":  "profile",
+                      "name":  "Star Citizen Flight Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Power triangle, quantum, landing gear, countermeasures and scanning on one deck. Star Citizen keyboard defaults.",
+                      "category":  "Flight Sim",
+                      "tags":  [
+                                   "game:Star Citizen",
+                                   "space",
+                                   "sim",
+                                   "flight",
+                                   "mmo"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.starcitizen/1.0.0/com.commanddeckapp.profile.starcitizen-1.0.0.cdpkg",
+                      "sha256":  "98e354ac7c3a59c6d40b4fd6174decfdb1ff1f8c6c3800646450e5fc11e4b36e",
+                      "sizeBytes":  2060,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.starcitizen/1.0.0/Star Citizen Flight Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.valorant",
+                      "type":  "profile",
+                      "name":  "VALORANT Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Abilities, buy phase, weapon slots and comms on one deck. VALORANT defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:VALORANT",
+                                   "fps",
+                                   "tactical",
+                                   "shooter",
+                                   "riot"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.valorant/1.0.0/com.commanddeckapp.profile.valorant-1.0.0.cdpkg",
+                      "sha256":  "f8565fa66521a2df0f6e52fd8e5265d7159a105b3651a942816a901db66bb898",
+                      "sizeBytes":  2160,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.valorant/1.0.0/VALORANT Deck.profile"
+                  },
+                  {
+                      "id":  "com.commanddeckapp.profile.wow",
+                      "type":  "profile",
+                      "name":  "World of Warcraft Deck",
+                      "version":  "1.0.0",
+                      "author":  "CommandDeckApp",
+                      "description":  "Action bar, every character panel and the social windows on one deck. World of Warcraft defaults.",
+                      "category":  "Gaming",
+                      "tags":  [
+                                   "game:World of Warcraft",
+                                   "mmo",
+                                   "rpg",
+                                   "blizzard",
+                                   "raid"
+                               ],
+                      "download":  "packages/com.commanddeckapp.profile.wow/1.0.0/com.commanddeckapp.profile.wow-1.0.0.cdpkg",
+                      "sha256":  "3ad4db6f073b7959322345d602ddf2f42c767a2216650b97a28e8599f94d0436",
+                      "sizeBytes":  2190,
+                      "license":  "CC-BY-4.0",
+                      "profileFile":  "packages/com.commanddeckapp.profile.wow/1.0.0/World of Warcraft Deck.profile"
                   }
               ]
 }
